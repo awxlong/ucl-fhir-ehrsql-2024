@@ -4,9 +4,7 @@ A bottleneck that comes with querying FHIR databases is to be highly proficient 
 
 A shout-out to [Edward Choi](https://mp2893.com/), [Gyubok Lee](https://sites.google.com/view/gyuboklee), Sunjun Kweon, and [Seongsu Bae](https://seongsubae.info/) from [EdLab](https://mp2893.com/) @ [KAIST](https://gsai.kaist.ac.kr/) for organizing such competition!
 
-# Original repo's README
-
-# Dataset to be used: Reliable Text-to-SQL on Electronic Health Records - Clinical NLP Workshop @ NAACL 2024
+# ↓ Original repo's README: Reliable Text-to-SQL on Electronic Health Records - Clinical NLP Workshop @ NAACL 2024
 
 
 ## [Overview](https://sites.google.com/view/ehrsql-2024)
