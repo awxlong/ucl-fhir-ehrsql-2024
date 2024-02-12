@@ -1,4 +1,12 @@
-# Reliable Text-to-SQL on Electronic Health Records - Clinical NLP Workshop @ NAACL 2024
+# UCL-FHIR 2024 Hackathon Abstract 
+
+A bottleneck that comes with querying FHIR databases is to be highly proficient with the FHIR syntax, which may result in hampering accessibility to this service. In this hackathon, we aim to train a generative AI model that can translate natural language (NL) queries into standardize-format queries. This is a proof-of-concept project. This means that while there is no convenient dataset consisting of NL to FHIR queries, we will employ a NL query to SQL query dataset at https://www.codabench.org/competitions/1889/, where upon successfully training such model we can explore how can SQL queries be converted into FHIR queries. This proof-of-concept project aims to shed insights into how AI can play a role in smoothing human-computer interaction within the FHIR workflow. 
+
+A shout-out to [Edward Choi](https://mp2893.com/), [Gyubok Lee](https://sites.google.com/view/gyuboklee), Sunjun Kweon, and [Seongsu Bae](https://seongsubae.info/) from [EdLab](https://mp2893.com/) @ [KAIST](https://gsai.kaist.ac.kr/) for organizing such competition!
+
+# Original repo's README
+
+# Dataset to be used: Reliable Text-to-SQL on Electronic Health Records - Clinical NLP Workshop @ NAACL 2024
 
 
 ## [Overview](https://sites.google.com/view/ehrsql-2024)
